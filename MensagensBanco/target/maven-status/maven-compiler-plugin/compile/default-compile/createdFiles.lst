@@ -1,0 +1,6 @@
+server\ClienteDAO.class
+model\Mensagem.class
+model\Cliente.class
+server\TrataCliente.class
+tools\FactoryPostgres.class
+server\Server.class
